@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I'm Osama
 
-<!--
-**osamamaktari/osamamaktari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Sofware Engineering student from Yemen  
+💻 I’m passionate about Web Development, PHP, and Smart Systems  
+📊 Currently working on: Smart Medical City Project  
+🌱 Learning: Laravel, RFID integration, and Git best practices  
+📫 Contact me: osamaaltal01@gmail.com  
+🧠 Fun fact: I enjoy solving real-world problems with code
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- PHP 8 / OOP / MVC
+- JavaScript / HTML / CSS /Tailwind /React
+- MySQL / Database Design
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Connect with Me
+- [LinkedIn] https://www.linkedin.com/in/osama-altal-780356251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
